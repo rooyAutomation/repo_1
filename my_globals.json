@@ -1,0 +1,24 @@
+{
+	"id": "09bcfd57-a817-4b20-8250-6a8b057b8247",
+	"values": [
+		{
+			"key": "",
+			"value": "",
+			"enabled": false
+		},
+		{
+			"key": "endpoint",
+			"value": "api",
+			"enabled": true
+		},
+		{
+			"key": "tokrn",
+			"value": "Bearer  foo",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2019-09-05T19:35:08.258Z",
+	"_postman_exported_using": "Postman/7.6.0"
+}
